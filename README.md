@@ -80,7 +80,7 @@ Go to `http://localhost:8080` to start chatting with HealthBot.
 1. **User asks a question** via the UI.
 2. **Query is embedded** using Hugging Face `sentence-transformers`.
 3. **Semantic search**: top relevant chunks are pulled from Pinecone.
-4. **Prompt construction**: these chunks are passed to GPT-4.0-mini as context.
+4. **Prompt construction**: these chunks are passed to GPT-4o as context.
 5. **Response is generated** and returned to the user.
 
 This pipeline ensures GPT responds based only on verified content from the source, not general pre-trained LLM knowledge.
