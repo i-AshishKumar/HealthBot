@@ -2,8 +2,7 @@
 
 HealthBot is an AI-powered chatbot that answers medical questions using factual information from a medical encyclopedia. It combines OpenAI's GPT-4.0-mini with Hugging Face sentence transformer embeddings and a retrieval-augmented generation (RAG) pipeline. The goal is simple: provide accurate, grounded medical responses—not guesses.
 
-![Diagram](https://ibb.co/HfNQQgGB)
-
+![Diagram](https://i.ibb.co/ks3FFcq5/healthbot.png)
 
 ---
 
